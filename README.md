@@ -1,2 +1,2 @@
 # ProdigyIntern
-This is a Task 01 of my internship In Prodigy Infotech! To Create a bar chart or histogram to visualize the distribution of a categorical or continuous variable, such as the distribution of ages or genders in a population.
+This is a Task 02 of my internship In Prodigy Infotech! Perform data cleaning and exploratory data analysis (EDA) on a dataset of your choice, such as the Titanic dataset from Kaggle. Explore the relationships between variables and identify patterns and trends in the data.
