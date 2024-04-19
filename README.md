@@ -1,2 +1,2 @@
 # ProdigyIntern
-This is a Task 01 of my internship In Prodigy Infotech! To Create a bar chart or histogram to visualize the distribution of a categorical or continuous variable, such as the distribution of ages or genders in a population.
+This is a Task 03 of my internship In Prodigy Infotech! Build a decision tree classifier to predict whether a customer will purchase a product or service based on their demographic and behavioral data. Use a dataset such as the Bank Marketing dataset from the UCI Machine Learning Repository. Dateset :- https://archive.ics.uci.edu/ml/datasets/Bank+Marketing
