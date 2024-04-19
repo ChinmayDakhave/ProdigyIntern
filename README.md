@@ -1,2 +1,2 @@
 # ProdigyIntern
-This is a Task 01 of my internship In Prodigy Infotech! To Create a bar chart or histogram to visualize the distribution of a categorical or continuous variable, such as the distribution of ages or genders in a population.
+This is a Task 04 of my internship In Prodigy Infotech! Analyze and visualize sentiment patterns in social media data to understand public opinion and attitudes towards specific topics or brands. 
